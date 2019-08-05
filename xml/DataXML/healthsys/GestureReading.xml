@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Msg>
+	<Item>
+		<Key>Scope</Key>
+		<Value>SIS.Scope1</Value>
+	</Item>
+	<Item>
+		<Key>MessageType</Key>
+		<Value>Reading</Value>
+	</Item>
+	<Item>
+		<Key>Sender</Key>
+		<Value>InputProcessor</Value>
+	</Item>
+	<Item>
+		<Key>Receiver</Key>
+		<Value>GestureRecognition</Value>
+	</Item>
+	<Item>
+		<Key>HelpSignal</Key>
+		<Value>0</Value>
+	</Item>
+	<Item>
+		<Key>Date</Key>
+		<Value>1435437191150</Value>
+	</Item>
+</Msg>

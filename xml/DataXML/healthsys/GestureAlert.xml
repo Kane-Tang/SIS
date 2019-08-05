@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Msg>
+	<Item>
+		<Key>Scope</Key>
+		<Value>SIS.Scope1</Value>
+	</Item>
+	<Item>
+		<Key>MessageType</Key>
+		<Value>Alert</Value>
+	</Item>
+	<Item>
+		<Key>Sender</Key>
+		<Value>Emergency manager</Value>
+	</Item>
+	<Item>
+		<Key>Receiver</Key>
+		<Value>Ambulance control</Value>
+	</Item>
+	<Item>
+		<Key>Purpose</Key>
+		<Value>GestureAlert</Value>
+	</Item>
+	<Item>
+		<Key>HelpSignal</Key>
+		<Value>1</Value>
+	</Item>
+	<Item>
+		<Key>Date</Key>
+		<Value>1435437191150</Value>
+	</Item>
+</Msg>
